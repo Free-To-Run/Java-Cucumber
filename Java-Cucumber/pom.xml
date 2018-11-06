@@ -5,4 +5,12 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>BDDFramework</name>
   <description>A project to showcase a sample Java-Cucumber implementation</description>
+  <dependencies>
+   	<!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+	<dependency>
+    	<groupId>org.seleniumhq.selenium</groupId>
+    	<artifactId>selenium-java</artifactId>
+    	<version>2.53.0</version>
+	</dependency>
+  </dependencies> 
 </project>
